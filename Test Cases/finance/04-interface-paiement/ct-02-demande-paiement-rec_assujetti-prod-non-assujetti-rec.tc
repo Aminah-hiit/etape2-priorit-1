@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ct-02-demande-paiement-rec_assujetti-prod-non-assujetti-rec</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9a48376-c448-47b3-b714-eea874350bc9</testCaseGuid>
+</TestCaseEntity>
